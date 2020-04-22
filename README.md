@@ -7,4 +7,4 @@ Ansible.
 
 O arquivo Vagrantfile é usado pelo Vagrant para criar VM no VirtualBox, provisionar memória, CPU e indicar qual será gerenciador de configuração a ser utilizado.
   
-O arquivo hosts indica qual máquina sera atingida pelo Ansible e no script webserver.yml informamos quais as alterações serã realizadas na máquina.
+O arquivo hosts indica qual máquina sera atingida pelo Ansible e no script webserver.yml informamos quais as alterações serão realizadas na máquina.
